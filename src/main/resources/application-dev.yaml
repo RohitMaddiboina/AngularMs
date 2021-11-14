@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: angular-ms
+server:
+  port: '4200'
